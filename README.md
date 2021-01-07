@@ -33,6 +33,8 @@
    
    [ 4.ارائه شفاهی لاتک](https://drive.google.com/file/d/1-1r-PsKRi-rxPjPDNjZI1A0OKMx0fDLM/view)
    
+   [بیمر لاتک](https://github.com/saranaseri/PNU_3991_AR/blob/main/%D8%A8%DB%8C%D9%85%D8%B1%20190%20%D8%AA%D8%A7%20192/beamer190-192.pdf)
+   
        
 ## گروه ها
 
