@@ -27,7 +27,7 @@
    
    [ 2. OATD پایان نامه ](http://tesi.cab.unipd.it/43002/1/Tesi_Comite_Marco.pdf)
    
-    [ 3. ارائه کتبی لاتک] (https://github.com/saranaseri/PNU_3991_AR/tree/main/Research%20Method190-191-192)
+   [ 3. ارائه کتبی لاتک](https://github.com/saranaseri/PNU_3991_AR/tree/main/Research%20Method190-191-192)
    
        
 ## گروه ها
