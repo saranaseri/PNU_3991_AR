@@ -25,7 +25,7 @@
 ##  فعالیت گروهی
   [ 1. معرفی یک درس مشابه در دانشگاههای دیگر](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
    
-   [ 2. پایان نامه](https://oatd.org/oatd/search?q=id:oai\:generic.eprints.org\:43002&pagesize=&mlt=y)
+   [ 2. پایان نامه](http://tesi.cab.unipd.it/43002/1/Tesi_Comite_Marco.pdf)
        
 ## گروه ها
 
