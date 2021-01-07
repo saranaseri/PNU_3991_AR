@@ -25,7 +25,7 @@
 ##  فعالیت گروهی
   [ 1. معرفی یک درس مشابه در دانشگاههای دیگر](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
    
-   [ 2. OATD پایان نامه ](https://conservancy.umn.edu/handle/11299/182784)
+   [ 2. پایان نامه ](https://conservancy.umn.edu/handle/11299/182784)
    
    [ 3. ارائه کتبی لاتک](https://github.com/saranaseri/PNU_3991_AR/tree/main/Research%20Method190-191-192)
    
