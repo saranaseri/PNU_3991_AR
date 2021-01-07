@@ -31,7 +31,7 @@
    
    [ 3. ارائه کتبی لاتک](https://github.com/saranaseri/PNU_3991_AR/tree/main/Research%20Method190-191-192)
    
-   [ 4.ارائه شفاهی لاتک](https://github.com/saranaseri/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D9%81%D8%A7%D9%87%DB%8C/%D8%A7%D8%B1%D8%A7%D8%A6%D9%87%20%D8%B4%D9%81%D8%A7%D9%87%DB%8C%20%D8%A8%DB%8C%D9%85%D8%B1%20%DB%B1%DB%B9%DB%B0%20%D8%AA%D8%A7%20%DB%B1%DB%B9%DB%B2.m4a)
+   [ 4.ارائه شفاهی لاتک](https://drive.google.com/file/d/1-1r-PsKRi-rxPjPDNjZI1A0OKMx0fDLM/view)
    
        
 ## گروه ها
