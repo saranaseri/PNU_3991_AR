@@ -23,18 +23,10 @@
 
 ------------------
 ##  فعالیت گروهی
-   [ 1. معرفی یک درس مشابه در دانشگاههای دیگر] (https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
+  [ 1. معرفی یک درس مشابه در دانشگاههای دیگر](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
    
    [ 2. پایان نامه](https://oatd.org/oatd/search?q=id:oai\:generic.eprints.org\:43002&pagesize=&mlt=y)
-   
-    [3.ارائه کتبی با لاتک از منابع دیگر به زبان اصلی] 
        
-        - [فایل پی دی اف]
-            - 
-        - [فایل لاتکس]  
-            - 
-    [4.ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر]
-        - بمدت حداکثر 5 دقیقه خلاصه برداشت از ارائه کتبی بند 3 و یا روش پژوهش بند 2 را توضیح دهید    
 ## گروه ها
 
 1. G-R01
