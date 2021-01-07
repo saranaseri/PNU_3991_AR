@@ -22,7 +22,7 @@
 ##  بخش دروس کارشناسی
 
 ------------------
-##فعالیت گروهی
+##  فعالیت گروهی
     1. معرفی یک درس مشابه در دانشگاههای دیگر
         - هر 10 نفر یک درس
         - [https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
