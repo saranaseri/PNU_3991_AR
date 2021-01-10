@@ -20,7 +20,7 @@
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/saranaseri/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/saranaseri/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
 ##  بخش دروس کارشناسی
-- [ارزیابی درس روش پژوهش و ارائه]
+- [ارزیابی درس روش پژوهش و ارائه](https://github.com/saranaseri/PNU_3991_AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 ------------------
 ##  فعالیت گروهی
   [ 1. معرفی یک درس مشابه در دانشگاههای دیگر](https://www.sku.ac.ir/Department/computer-engineering/Department-CourseCatalogDetail/62)
